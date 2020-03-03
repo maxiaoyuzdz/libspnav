@@ -6,3 +6,6 @@
 *.so.*
 spnav_config.h
 Makefile
+/build
+/.vscode
+/install
